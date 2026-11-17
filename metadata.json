@@ -1,0 +1,6 @@
+{
+  "name": "MediReport Connect",
+  "description": "Hospital medical report collection, Gemini AI document extraction, physician verification workflow, and automatic multi-channel patient delivery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
